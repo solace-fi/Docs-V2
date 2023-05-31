@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Solace Overview](README.md)
+* [Introduction](README.md)
 
 ## $SOLACE Token <a href="#solace-token" id="solace-token"></a>
 
