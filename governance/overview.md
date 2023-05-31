@@ -1,5 +1,5 @@
 ---
-description: Introduction to Solace DAO governance
+description: Introduction to SolaceDAO governance
 ---
 
 # Overview
