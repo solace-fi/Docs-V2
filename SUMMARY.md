@@ -4,8 +4,8 @@
 
 ## Protocol Mechanics
 
-* [Coverage module](protocol-mechanics/coverage-module.md)
 * [Lending module](protocol-mechanics/lending-module.md)
+* [Coverage module](protocol-mechanics/coverage-module.md)
 * [Tokenomics + veSGT](protocol-mechanics/tokenomics-+-vesgt.md)
 * [Glossary](protocol-mechanics/glossary.md)
 
