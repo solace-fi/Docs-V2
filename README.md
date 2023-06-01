@@ -42,21 +42,10 @@ One way to maximize returns is by taking advantage of yield discrepancies betwee
 
 If Pendle offers a fixed 5% APY on PT-stETH, while the borrow rate for ETH on Solace’s lending market is only 3%, users can deposit PT-stETH as collateral, borrow ETH, swap the borrowed ETH for more PT-stETH, and repeat it up to 5 times (depends on borrow limit), potentially earning a maximum leveraged APY of 10%.
 
-```markup
-{% raw %}
-{% hint style="info" %}
-{% endraw %}
-```
-
-```markup
-This strategy combines the benefits of depositing a yield-bearing asset and borrowing on lending market, but with the added advantage of the certainty provided by the fixed rate of Pendle’s PT tokens.
-```
-
-```markup
-{% raw %}
-{% endhint %}
-{% endraw %}
-```
+<pre class="language-markup"><code class="lang-markup"><strong>{% hint style="info" %} 
+</strong><strong>This strategy combines the benefits of depositing a yield-bearing asset and borrowing on lending market, but with the added advantage of the certainty provided by the fixed rate of Pendle’s PT tokens.
+</strong>{% endhint %}
+</code></pre>
 
 
 
