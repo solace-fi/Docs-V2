@@ -20,13 +20,13 @@ _A few examples of available strategies:_
 
 Solace Coverage provides risk protection similar to insurance but without the issues associated with DeFi insurance. Users can enjoy coverage without concerns about claims, discretionary voting, and conflicts of interest. Additionally, Solace Coverage provides improved capital efficiency and better economics for a more robust and secure risk protection solution.
 
-```markup
+```
 {% raw %}
 {% hint style="info" %}
 {% endraw %}
 ```
 
-```markup
+```markdown
 To illustrate Solace coverage, imagine purchasing car insurance and having the option to receive an immediate payout equal to the value of your car, regardless of whether an incident has occurred or an insurance claim event has taken place.
 ```
 
@@ -42,7 +42,7 @@ One way to maximize returns is by taking advantage of yield discrepancies betwee
 
 If Pendle offers a fixed 5% APY on PT-stETH, while the borrow rate for ETH on Solace’s lending market is only 3%, users can deposit PT-stETH as collateral, borrow ETH, swap the borrowed ETH for more PT-stETH, and repeat it up to 5 times (depends on borrow limit), potentially earning a maximum leveraged APY of 10%.
 
-<pre class="language-markup"><code class="lang-markup"><strong>{% hint style="info" %} 
+<pre class="language-markdown"><code class="lang-markdown"><strong>{% hint style="info" %} 
 </strong><strong>This strategy combines the benefits of depositing a yield-bearing asset and borrowing on lending market, but with the added advantage of the certainty provided by the fixed rate of Pendle’s PT tokens.
 </strong>{% endhint %}
 </code></pre>
