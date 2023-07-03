@@ -1,12 +1,20 @@
 # Glossary
 
-* **Solace Lending Module**
+* **Ajna protocol:**
 
-The Lending Module, a fork of Compound V2, serves as the core mechanism in the Solace protocol. This unique money market enables the collateralization of yield-bearing tokens, creating an array of strategies for DeFi users to manage risk and optimize yield. Among these strategies is the Solace Coverage Module, designed to provide an efficient means of risk hedging across DeFi ecosystem.
+Ajna's protocol is a non-custodial, peer-to-peer, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function. The protocol consists of pools with lenders and borrowers.
 
-* **Solace Coverage Module**
+* **Listed lending pool:**
 
-A crucial component of the Solace protocol that allows users to safeguard their DeFi positions. By depositing yield-bearing tokens into the module, users secure a predetermined payout, providing a shield against market uncertainties. This process is conducted within the Solace system, assuring users of both liquidity and security.
+Lending pool on Ajna protocol with a derivative collateral token created by Solace
+
+* **LPB token:**
+
+Liquidity Provider Balance units which are issued to lenders on Ajna protocol by depositing quote tokens into a pool.
+
+* **Quote token:**
+
+A token provided by lenders to a specific Ajna lending pool.
 
 * **Yield-Bearing Token:**
 

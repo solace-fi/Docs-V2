@@ -4,7 +4,6 @@
 
 * [Introduction](README.md)
 * [How does it work?](solace-protocol/how-does-it-work.md)
-* [Tokenomics + veSGT](solace-protocol/tokenomics-+-vesgt.md)
 * [Glossary](solace-protocol/glossary.md)
 
 ## SGT Token
@@ -17,4 +16,15 @@
 ## Governance
 
 * [Overview](governance/overview.md)
-* [Governance process](governance/governance-process.md)
+* [Gauge voting](governance/gauge-voting.md)
+* [SGT Distribution & Schedule](governance/sgt-distribution-and-schedule.md)
+
+## Strategies Playbook
+
+* [Yield Arbitrage Strategy](strategies-playbook/yield-arbitrage-strategy.md)
+* [Hedge against DeFi risks Strategy (Coverage)](strategies-playbook/hedge-against-defi-risks-strategy-coverage.md)
+
+***
+
+* [Twitter](https://twitter.com/SolaceFi)
+* [Discord](https://discord.gg/jjwUvr4CzK)
