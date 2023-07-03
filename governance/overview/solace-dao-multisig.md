@@ -1,27 +1,4 @@
----
-description: Introduction to SolaceDAO governance
----
-
-# Overview
-
-Solace on-chain Governance allows token holders to participate in the protocol development, control protocol variables and influence all the key decisions.
-
-This ensures the protocol can rapidly adjust to changing market conditions, as well as upgrade core parts of the protocol as time goes on, while maintaining a sufficient level of decentralization.
-
-Solace Governance Forum: [https://forum.solace.fi/](https://forum.solace.fi/)
-
-Solace Snapshot: [https://snapshot.org/#/solace-dao.eth](https://snapshot.org/#/solace-dao.eth)
-
-### **Governance Power**
-
-SGT and/or veSGT token holders receive governance powers proportionally to the sum of their balance.
-
-There are initially two powers associated with the governance token:
-
-* **Proposal power** that gives access to creating and sustaining a proposal.
-* **Voting power** which is used to vote for or against existing proposals.
-
-### **Solace DAO Multisig**
+# Solace DAO Multisig
 
 Solace Multisig is a group of community-elected individuals or entities who are part of a SolaceDAO multisig. The multisig is intended to execute decisions made by SGT holders through snapshot voting. This council uses a Gnosis Safe Multisig to execute decisions on-chain, ensuring that the changes are implemented securely and efficiently. The council also provides support to community members throughout the governance process.
 
@@ -60,24 +37,3 @@ Last elections were held from May 10 to May 17 of 2023 and established 9 signers
 7. _**Jeff Tang (jefferson#8477)**_ — an early contributor to Solace and Holdr
 8. _**Gnar (Gnar#2784)**_ — early supporter and the OG member of the Solace community.
 9. _**Jehoti (Jehoti#4527)**_— early supporter and the OG member of the Solace community.
-
-#### **Decision-making Power**
-
-| Power                     | Delegation  |
-| ------------------------- | ----------- |
-| Manage Powers             | SGT Holders |
-| Change SGT Token Contract | SGT Holders |
-| Set Fees                  | SGT Holders |
-| Change Multisig Signers   | SGT Holders |
-| Spend Treasury Funds      | Multisig    |
-| SIP Power                 | SGT Holders |
-| Execution Power           | Multisig    |
-| Transitionary Power       | Multisig    |
-| Emergency Powers          | Multisig    |
-| Manage Protocol           | Multisig    |
-| Delegate Transactions     | Multisig    |
-| Pay Team                  | Multisig    |
-| Set Budgets               | SGT Holders |
-| Farm Treasury             | SGT Holders |
-| Ratify Multisig Signers   | Multisig    |
-

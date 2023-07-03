@@ -15,16 +15,21 @@
 
 ## Governance
 
-* [Overview](governance/overview.md)
+* [Overview](governance/overview/README.md)
+  * [Solace DAO Multisig](governance/overview/solace-dao-multisig.md)
+  * [Governance Power](governance/overview/governance-power.md)
 * [Gauge voting](governance/gauge-voting.md)
 * [SGT Distribution & Schedule](governance/sgt-distribution-and-schedule.md)
 
 ## Strategies Playbook
 
-* [Yield Arbitrage Strategy](strategies-playbook/yield-arbitrage-strategy.md)
-* [Hedge against DeFi risks Strategy (Coverage)](strategies-playbook/hedge-against-defi-risks-strategy-coverage.md)
+* [Yield Arbitrage](strategies-playbook/yield-arbitrage.md)
+* [Hedge against DeFi risks (Coverage)](strategies-playbook/hedge-against-defi-risks-coverage.md)
 
 ***
 
+* [Website](https://www.solace.fi/)
 * [Twitter](https://twitter.com/SolaceFi)
 * [Discord](https://discord.gg/jjwUvr4CzK)
+* [Github](https://github.com/solace-fi)
+* [Solace DAO Forum](https://forum.solace.fi/)
