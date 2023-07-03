@@ -1,13 +1,18 @@
 # Table of contents
 
+## Solace Protocol
+
 * [Introduction](README.md)
+* [How does it work?](solace-protocol/how-does-it-work.md)
+* [Tokenomics + veSGT](solace-protocol/tokenomics-+-vesgt.md)
+* [Glossary](solace-protocol/glossary.md)
 
-## Protocol Mechanics
+## SGT Token
 
-* [Lending module](protocol-mechanics/lending-module.md)
-* [Coverage module](protocol-mechanics/coverage-module.md)
-* [Tokenomics + veSGT](protocol-mechanics/tokenomics-+-vesgt.md)
-* [Glossary](protocol-mechanics/glossary.md)
+* [SGT and veSGT](sgt-token/sgt-and-vesgt/README.md)
+  * [Vote Lock](sgt-token/sgt-and-vesgt/vote-lock.md)
+  * [Voting](sgt-token/sgt-and-vesgt/voting.md)
+  * [Boosting](sgt-token/sgt-and-vesgt/boosting.md)
 
 ## Governance
 
