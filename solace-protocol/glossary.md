@@ -8,9 +8,9 @@ Ajna's protocol is a non-custodial, peer-to-peer, permissionless lending, borrow
 
 Lending pool on Ajna protocol with a derivative collateral token created by Solace
 
-* **LPB token:**
+* **Ajna's NFT:**
 
-Liquidity Provider Balance units which are issued to lenders on Ajna protocol by depositing quote tokens into a pool.
+A transferable NFT minted on Ajna that represents a user's Ajna pool lending position.
 
 * **Quote token:**
 
