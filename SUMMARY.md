@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [How does it work?](solace-protocol/how-does-it-work.md)
 * [Glossary](solace-protocol/glossary.md)
+* [Development Roadmap](solace-protocol/development-roadmap.md)
 
 ## SGT Token
 
