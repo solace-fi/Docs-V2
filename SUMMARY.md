@@ -25,6 +25,7 @@
 ## Strategies Playbook
 
 * [Yield Arbitrage](strategies-playbook/yield-arbitrage.md)
+* [Boosted ETH](strategies-playbook/boosted-eth.md)
 * [Hedge against DeFi risks (Coverage)](strategies-playbook/hedge-against-defi-risks-coverage.md)
 
 ***
