@@ -6,7 +6,7 @@ Solace is designed to address this void in the market and empower users to harne
 
 ### **What is Solace Protocol?**
 
-Solace introduces veTokenomics on a set of markets across Ajna, purposefully created to accept derivatives as collateral for borrowing ETH (or stablecoins). By implementing this integration, Solace Protocol encourages the influx of liquidity into derivatives lending markets, leading to
+Solace introduces veTokenomics on top of markets across Ajna, which are purposefully created to accept derivatives as collateral for borrowing ETH (or stablecoins). By implementing this feature, Solace encourages an influx of liquidity into derivatives lending markets, leading to&#x20;
 
-1. Increased yield opportunities for ETH suppliers, and
+1. Increased yield opportunities for ETH suppliers
 2. Expanding the range of strategies that can be employed with derivative tokens.
