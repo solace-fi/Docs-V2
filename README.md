@@ -6,7 +6,16 @@ Solace is designed to address this void in the market and empower users to harne
 
 ### **What is Solace Protocol?**
 
-Solace introduces veTokenomics on top of markets across Ajna, which are purposefully created to accept derivatives as collateral for borrowing ETH (or stablecoins). By implementing this feature, Solace encourages an influx of liquidity into derivatives lending markets, leading to&#x20;
+Solace is the exotic lending protocol. Its primary functions are:
 
-1. Increased yield opportunities for ETH suppliers
-2. Expanding the range of strategies that can be employed with derivative tokens.
+1. Boost your yield on ETH, stablecoins and other blue chips
+2. Deepen the liquidity for an LSD / yield-bearing token of your choice
+3. Access borrowing against your DeFi positions at better rates.
+
+Solace introduces veTokenomics on a set of markets across Ajna, purposefully created to accept derivatives as collateral for borrowing ETH (or stablecoins). veSGT holders actively vote on specific derivative tokens and direct SGT emission toward them in order to enhance liquidity depth.
+
+By implementing this integration, Solace Protocol leads to:
+
+1. Expanded yield opportunities for ETH suppliers
+2. Reduced borrowing rates for LSD / yield-bearing token holders
+3. Wider range of yield and risk management strategies that can be employed with LSD/yield-bearing tokens.

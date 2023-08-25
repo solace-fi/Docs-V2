@@ -4,7 +4,7 @@
 
 Ajna's protocol is a non-custodial, peer-to-peer, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function. The protocol consists of pools with lenders and borrowers.
 
-* **Listed lending pool:**
+* **Listed (Curated) lending pool:**
 
 Lending pool on Ajna protocol with a derivative collateral token created by Solace
 
@@ -16,9 +16,17 @@ A transferable NFT minted on Ajna that represents a user's Ajna pool lending pos
 
 A token provided by lenders to a specific Ajna lending pool.
 
+* **Derivative token:**
+
+A token that represents a position in a DeFi protocol. Any LSD and yield-bearing token is a derivative token.
+
 * **Yield-Bearing Token:**
 
 A token that generates yield, such as stETH, GLP, gDAI, or liquidity tokens like Aura rETH-WETH.
+
+* **LSD token:**
+
+Liquid Staking Derivative (LSD), representing staked assets in a blockchain, such as stETH, frxETH, cbETH, etc.
 
 * **Pendle Protocol:**
 
